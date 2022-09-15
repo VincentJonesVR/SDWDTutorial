@@ -64,7 +64,7 @@ This will download a file named “wd-v1-2-full-ema.ckpt” weighing in at a hef
 Once the webpage has opened and the text at the top reads “Stable Diffusion is ready”, you are all set to start generating images. 
 
 ## Important To Note
-Stable Diffusion UI has many built in features and options. I very highly recommend you read up on some of those options at the page linked. 
+Stable Diffusion UI has many built in features and options. It is very highly recommended to read up on some of those options at the page linked. 
 
 Some options should not be used while using Waifu-Diffusion. These include:
 
