@@ -70,7 +70,7 @@ Some options should not be used while using Waifu-Diffusion. These include:
 
 <b>1. Fix incorrect faces and eyes (uses GFPGAN)</b> 
 
-   (This tries to correct the issues often seen with faces in AI generated images, but as it is based around real faces, it does not help when using Waifu-Diffusion)
+   (This tries to correct the issues often seen with faces in AI generated images, but, as it is based around real faces, it does not help when using Waifu-Diffusion)
 
 <b>2. Upscale the image to 4x resolution using RealESRGAN_x4plus</b> 
 
