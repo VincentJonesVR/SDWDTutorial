@@ -4,7 +4,7 @@ This tutorial covers two topics:
 
 2.	Where to find, and download the Waifu-Diffusion model, as well as how to use that in place of the standard Stable Diffusion model.
 
-<b>It is worth noting that this does require an Nvidia GPU. Technically it can be run on your CPU instead, but it will be *very* slow.</b>
+<b>It is worth noting that this does require an Nvidia GPU. Technically, it can be run on your CPU instead, but it will be *very* slow.</b>
 
 <b><i>Stable Diffusion UI by cmdr2: https://github.com/cmdr2/stable-diffusion-ui
 
