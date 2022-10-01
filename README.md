@@ -51,13 +51,7 @@ This will download a file named “wd-v1-2-full-ema.ckpt” weighing in at a hef
 
         Example: C:\stable-diffusion-ui\stable-diffusion
 
-4.	Inside of this folder you will find a file called “sd-v1-4.ckpt”. This is the standard Stable Diffusion model. You may either:
-
-       Delete this file, <b>OR</b>
-
-       Change the extension to something like <i>.ckptOLD</i>, if you’d like to keep it.
-
-5.	Paste <i>wd-v1-2-full-ema.ckpt</i> into this folder, and rename it <i>sd-v1-4.ckpt</i> to match the file that was there before.
+5.	Paste <i>wd-v1-2-full-ema.ckpt</i> into this folder, and rename it <i>custom-model.ckpt</i>.
 
 6.	Back out to <stable-diffusion-ui> and run “Start Stable Diffusion UI.cmd”.
 
